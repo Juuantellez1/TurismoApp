@@ -1,6 +1,5 @@
 # Team Dinamita
 
-¡Bienvenidos al repositorio del **Team Dinamita**!
 
 ## Integrantes
 
@@ -11,7 +10,7 @@
 
 ## Link del Video
 
-Puedes ver el video aquí: [Inserta aquí el link del video](#)
+Puedes ver el video aquí: [https://youtu.be/hurbj-nCils?si=79Jf7l3DOBt4qVJw](#)
 
 ---
 
