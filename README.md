@@ -17,12 +17,11 @@ Puedes ver el video aquí: [Inserta aquí el link del video](#)
 
 ### Descripción del Proyecto
 
-Aquí puedes agregar una breve descripción de lo que hace el proyecto, su propósito, y cualquier información relevante que quieras compartir.
+sta aplicación permite a los usuarios interactuar con un menú simple que tiene las siguientes opciones:
+
+- **Explorar Destinos**: Muestra los destinos disponibles para el usuario.
+- **Favoritos**: Permite al usuario ver los destinos que ha marcado como favoritos.
+- **Recomendaciones**: Presenta recomendaciones personalizadas basadas en las preferencias del usuario.
 
 ---
 
-### Tecnologías Utilizadas
-
-Si estás trabajando con alguna tecnología específica, como lenguajes de programación, frameworks, o librerías, puedes listarlas aquí. Ejemplo:
-
-- Python
