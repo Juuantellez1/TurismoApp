@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvRecoTitle" type="id" />
+    <item name="tvRecoActivity" type="id" />
+    <item name="tvName" type="id" />
+</resources>

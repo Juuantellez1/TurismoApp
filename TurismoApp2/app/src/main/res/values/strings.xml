@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TurismoApp</string>
+
+    <string name="category_format">Categoría: %1$s</string>
+    <string name="country_format">País: %1$s</string>
+    <string name="recommended_format">Actividad recomendada: %1$s</string>
+    <string name="added_to_favorites">Añadido a favoritos</string>
+    <string name="search_hint">Buscar</string>
+    <string name="btn_explore">Explorar destinos</string>
+    <string name="btn_favorites">Favoritos</string>
+    <string name="btn_recommendations">Recomendaciones</string>
+    <string name="weather_format">Clima: %1$.1f°C, %2$s</string>
+
+
+</resources>

@@ -1,0 +1,114 @@
+{
+  "destinos": [
+    {
+      "id": 1,
+      "nombre": "Cartagena",
+      "categoria": "Ciudades Históricas",
+      "pais": "Colombia",
+      "descripcion": "Ciudad amurallada con historia colonial y playas caribeñas.",
+      "actividadRecomendada": "Recorrido por la muralla y el centro histórico",
+      "imagenUrl": "",
+      "lat": 10.4,
+      "lon": -75.5
+    },
+    {
+      "id": 2,
+      "nombre": "Parque Tayrona",
+      "categoria": "Playas",
+      "pais": "Colombia",
+      "descripcion": "Parque nacional con playas paradisíacas y selva tropical.",
+      "actividadRecomendada": "Caminata ecológica y snorkel",
+      "imagenUrl": "",
+      "lat": 11.3,
+      "lon": -74.0
+    },
+    {
+      "id": 3,
+      "nombre": "Machu Picchu",
+      "categoria": "Maravillas del Mundo",
+      "pais": "Perú",
+      "descripcion": "Ciudadela inca en lo alto de los Andes.",
+      "actividadRecomendada": "Tour guiado por las ruinas",
+      "imagenUrl": "",
+      "lat": -13.1631,
+      "lon": -72.5450
+    },
+    {
+      "id": 4,
+      "nombre": "Amazonas",
+      "categoria": "Selvas",
+      "pais": "Brasil",
+      "descripcion": "La selva tropical más grande del mundo, hogar de miles de especies.",
+      "actividadRecomendada": "Paseo en bote por el río Amazonas",
+      "imagenUrl": "",
+      "lat": -3.4653,
+      "lon": -62.2159
+    },
+    {
+      "id": 5,
+      "nombre": "Santorini",
+      "categoria": "Playas",
+      "pais": "Grecia",
+      "descripcion": "Isla famosa por sus casas blancas y vistas al mar Egeo.",
+      "actividadRecomendada": "Caminata por Oia y puesta de sol",
+      "imagenUrl": "",
+      "lat": 36.3932,
+      "lon": 25.4615
+    },
+    {
+      "id": 6,
+      "nombre": "Petra",
+      "categoria": "Ciudades Históricas",
+      "pais": "Jordania",
+      "descripcion": "Ciudad arqueológica tallada en piedra, conocida como la 'Ciudad Rosa'.",
+      "actividadRecomendada": "Visita al Tesoro y al Monasterio",
+      "imagenUrl": "",
+      "lat": 30.3285,
+      "lon": 35.4444
+    },
+    {
+      "id": 7,
+      "nombre": "Monte Everest",
+      "categoria": "Montañas",
+      "pais": "Nepal",
+      "descripcion": "La montaña más alta del mundo, un reto para montañistas.",
+      "actividadRecomendada": "Trekking hasta el campamento base",
+      "imagenUrl": "",
+      "lat": 27.9881,
+      "lon": 86.9250
+    },
+    {
+      "id": 8,
+      "nombre": "Islas Galápagos",
+      "categoria": "Selvas",
+      "pais": "Ecuador",
+      "descripcion": "Archipiélago único por su biodiversidad, inspiración de Darwin.",
+      "actividadRecomendada": "Snorkel y observación de fauna",
+      "imagenUrl": "",
+      "lat": -0.9538,
+      "lon": -90.9656
+    },
+    {
+      "id": 9,
+      "nombre": "París",
+      "categoria": "Ciudades Históricas",
+      "pais": "Francia",
+      "descripcion": "Capital del arte, la moda y la gastronomía.",
+      "actividadRecomendada": "Subida a la Torre Eiffel y paseo por el Sena",
+      "imagenUrl": "",
+      "lat": 48.8566,
+      "lon": 2.3522
+    },
+    {
+      "id": 10,
+      "nombre": "Chichen Itzá",
+      "categoria": "Maravillas del Mundo",
+      "pais": "México",
+      "descripcion": "Ruinas mayas con la icónica pirámide de Kukulkán.",
+      "actividadRecomendada": "Exploración guiada de la pirámide",
+      "imagenUrl": "",
+      "lat": 20.6843,
+      "lon": -88.5678
+    }
+  ]
+}
