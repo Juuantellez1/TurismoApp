@@ -7,7 +7,7 @@
 - **Juan Sebastián Téllez**
 - **Juan Esteban Camargo**
 - **Santiago Martínez**
-- **Laura Sofía Medina**
+- **Laura Sofía Medieta**
 
 ## Link del Video
 
